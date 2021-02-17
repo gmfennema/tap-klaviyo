@@ -15,6 +15,7 @@ ENDPOINTS = {
 }
 
 EVENT_MAPPINGS = {
+    "Active on Site": "web",
     "Received Email": "receive",
     "Clicked Email": "click",
     "Opened Email": "open",
